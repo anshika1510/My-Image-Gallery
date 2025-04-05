@@ -8,6 +8,7 @@ chatterbot==1.0.4
 chatterbot-corpus==1.2.0
 numpy==1.26.4
 nltk==3.8.1
+PyYAML==5.4.1
 selenium==4.13.0
 websocket-client==1.8.0
 whitenoise==6.9.0
